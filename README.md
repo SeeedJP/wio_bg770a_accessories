@@ -26,3 +26,16 @@
 
 * x1 [Holder](holder/holder_type1.stl)
 * x4 [M3 tapping screw EM-3](https://www.takachi-el.co.jp/products/EM)
+
+## Antenna Holder
+
+### Antenna Holder Type 1
+
+<img src="media/6.jpg" width="300">
+<img src="media/7.jpg" width="300">
+
+This antenna holder is designed for use with Case Type 1.
+
+#### Parts
+
+* x1 [Antenna holder](antenna_holder/antenna_holder_type1.stl)

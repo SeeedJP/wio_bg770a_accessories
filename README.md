@@ -39,3 +39,16 @@ This antenna holder is designed for use with Case Type 1.
 #### Parts
 
 * x1 [Antenna holder](antenna_holder/antenna_holder_type1.stl)
+
+### Rod Antenna Holder Type 1
+
+<img src="media/8.jpg" width="300">
+<img src="media/9.jpg" width="300">
+
+Rod antenna is [here](https://soracom.jp/store/5286/).
+This antenna holder is designed for use with Case Type 1.
+
+#### Parts
+
+* x1 [Rod antenna holder](antenna_holder/rodantenna_holder_type1.stl)
+* x1 [Rod antenna](https://soracom.jp/store/5286/)

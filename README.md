@@ -55,6 +55,16 @@
 * x1 [Holder](holder/holder_type1.stl)
 * x4 [M3 tapping screw EM-3](https://www.takachi-el.co.jp/products/EM)
 
+### Holder Type 2
+
+<img src="media/18.jpg" width="300">
+<img src="media/19.jpg" width="300">
+
+#### Parts
+
+* x1 [Holder](holder/holder_type2.stl)
+* x4 [M3 tapping screw EM-3](https://www.takachi-el.co.jp/products/EM)
+
 ## Antenna Holder
 
 ### Antenna Holder Type 1
